@@ -10,5 +10,5 @@ void main() {
   double area = pi * (radius * radius);
   print("area is " + area.toString());
   double volume = pi * radius * radius * height;
-  print("volme is " + volume.toString());
+  print("volume is " + volume.toString());
 }
